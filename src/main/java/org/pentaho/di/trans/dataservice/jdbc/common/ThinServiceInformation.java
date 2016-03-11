@@ -20,7 +20,7 @@
  *
  ******************************************************************************/
 
-package org.pentaho.di.trans.dataservice.jdbc;
+package org.pentaho.di.trans.dataservice.jdbc.common;
 
 import org.pentaho.di.core.row.RowMetaInterface;
 

@@ -44,7 +44,7 @@ import java.util.concurrent.Executor;
 
 import org.pentaho.di.cluster.HttpUtil;
 import org.pentaho.di.core.variables.Variables;
-import org.pentaho.di.trans.dataservice.client.DataServiceClientService;
+import org.pentaho.di.trans.dataservice.client.api.DataServiceClientService;
 
 public class ThinConnection implements Connection {
 

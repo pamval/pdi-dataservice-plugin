@@ -41,6 +41,7 @@ import org.pentaho.di.core.row.ValueMeta;
 import org.pentaho.di.core.row.ValueMetaInterface;
 import org.pentaho.di.core.variables.Variables;
 import org.pentaho.di.core.xml.XMLHandler;
+import org.pentaho.di.trans.dataservice.jdbc.common.ThinServiceInformation;
 import org.pentaho.di.version.BuildVersion;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;

@@ -26,6 +26,7 @@ import org.pentaho.di.core.annotations.LifecyclePlugin;
 import org.pentaho.di.core.lifecycle.LifeEventHandler;
 import org.pentaho.di.core.lifecycle.LifecycleException;
 import org.pentaho.di.core.lifecycle.LifecycleListener;
+import org.pentaho.di.trans.dataservice.client.api.DataServiceClientService;
 import org.pentaho.di.trans.dataservice.jdbc.ThinConnection;
 import org.pentaho.di.ui.spoon.Spoon;
 

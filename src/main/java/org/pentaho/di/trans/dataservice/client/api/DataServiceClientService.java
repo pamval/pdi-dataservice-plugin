@@ -20,10 +20,10 @@
  *
  ******************************************************************************/
 
-package org.pentaho.di.trans.dataservice.client;
+package org.pentaho.di.trans.dataservice.client.api;
 
 import org.pentaho.di.repository.Repository;
-import org.pentaho.di.trans.dataservice.jdbc.ThinServiceInformation;
+import org.pentaho.di.trans.dataservice.jdbc.common.ThinServiceInformation;
 import org.pentaho.metastore.api.IMetaStore;
 
 import java.io.DataInputStream;
